@@ -20,7 +20,7 @@ For cleaning and splitting the data into three different methods, use the follow
 
 NB! The desired splits have to be ran before using the desired Machine Learning Split (RF, XGG, ADA, LSTM and Sensitivity Analysis)
 
-For Sensitivity Analysis, you have to go run Split 2 first, then you can use the following script:
+For Sensitivity Analysis, you have to go run Split 3 first, then you can use the following script:
 
 1. Sensitivity Analysis and RFE
 
